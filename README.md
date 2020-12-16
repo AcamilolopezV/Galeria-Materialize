@@ -1,6 +1,7 @@
 # Galeria-Materialize
 
 Galeria utilzando HTML, CSS un poco de JavaScript utilizando Materialize, framework para CSS
+Materialize disponible en https://materializecss.com/about.html
 
 Demo 👨‍💻👉 https://camilo9115.github.io/Galeria-Materialize/.
 
