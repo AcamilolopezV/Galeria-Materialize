@@ -1,0 +1,24 @@
+body{
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.titulo{
+  font-size: 55px;
+  letter-spacing: 5px;
+}
+
+.galeria img{
+  box-shadow: 0 8px 10px -4px rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+}
+
+.materialbox-caption{
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  padding-top: 5px;
+}
+
+.galeria .col{
+  margin-bottom: 20px;
+}
